@@ -1,0 +1,11 @@
+{
+  "platform": "django",
+  "app": "eqlid-khademin14",
+
+  "disks": [
+    {
+      "name": "my-disk",
+      "mountTo": "media"
+    }
+  ]
+}
